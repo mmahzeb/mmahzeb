@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmahzeb
-- 👀 I’m interested in designing front-end with accessiblity in mind
+- 👀 I’m interested in designing front-end with accessibility in mind
 - 🌱 I’m currently learning Vanilla JS and CSS
 - 📫 How to reach me hello@mahzeb.ca
 
